@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dean</h1>
 <h3 align="center">Freelance Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...”>
 
 
 - 💻 I’m currently working on **Spotify Type Site**
